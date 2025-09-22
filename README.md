@@ -66,7 +66,7 @@ For visual reference, the effect of plasma elongation and triangularity on the p
 
 
 ## License
-- Data: CC BY-NC license
+- Data: CC BY license
 - Code: MIT license
 
 ## Citation
